@@ -1,0 +1,19 @@
+ name: cv
+ channels:
+   - conda-forge
+   - defaults
+ dependencies:
+   - python=3.8
+   - numpy
+   - matplotlib
+   - scipy
+   - scikit-image
+   - scikit-learn
+   - jupyter
+   - ipython
+   - ipywidgets
+   - pillow
+   - pandas
+   - mahotas
+   - imageio
+   - imageio-ffmpeg
